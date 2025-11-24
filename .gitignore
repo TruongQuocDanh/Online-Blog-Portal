@@ -1,0 +1,11 @@
+# Ignore Next.js build
+code fe/.next/
+
+# Ignore node modules
+code fe/node_modules/
+
+# Logs
+*.log
+
+# Environment files
+*.env
